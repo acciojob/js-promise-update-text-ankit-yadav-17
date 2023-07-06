@@ -8,6 +8,8 @@ function prom (){
 	})
 }
 
+prom();
+
 let ans = document.getElementById('output');
 ans.innerText = text;
 
